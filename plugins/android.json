@@ -1,0 +1,25 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "vitor.prova"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "br.fib.trabalho.contatos"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "br.fib.trabalho.contatos"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "br.fib.trabalho.contatos"
+        }
+    }
+}
